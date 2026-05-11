@@ -350,7 +350,7 @@ const Manifesto = () => (
             <li><span>Николай Татаровский</span><em>дизайнер</em></li>
             <li><span>Елена Яковенко</span><em>«Panem et Circenses»</em></li>
             <li><span>Илья Майоров, Арина Волкова</span><em>«Militia Est Vita Hominis»</em></li>
-            <li><span>Иван Сивков</span><em>«Витториано: алтарь или стена?»</em></li>
+            <li><span>Иван Сивков</span><em>«Quo Vadis, Папа?»</em></li>
             <li><span>Фархат Клушев, Екатерина Харенкова, Елизавета Куванова</span><em>«Белый травертин чёрного времени»</em></li>
             <li><span>Виктория Носкова, Полина Вытченкова</span><em>«Via della Conciliazione: улица примирения?»</em></li>
           </ul>
